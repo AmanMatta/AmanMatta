@@ -1,5 +1,4 @@
-# Hello, I am Aman Matta
-<img src="images/gify.gif" width=30%>
+# Hello, I am Aman Matta<img src="images/gify.gif" width=30%>
 
 
 ## Programming Languages I Know
